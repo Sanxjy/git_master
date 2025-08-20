@@ -4,3 +4,5 @@ commands for adding git --- git add -A
 
 commands for adding stage to loacl --- git commit -m "msg"
 
+list remote repository --- git remote -v
+
